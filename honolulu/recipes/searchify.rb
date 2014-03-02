@@ -1,7 +1,7 @@
 include_recipe "deploy"
 
 node[:deploy].each do |application, deploy|
-  Chef::log.info("Deploy DIR: #{deploy[:deploy_to]}")
+  Chef::Log.info("Deploy DIR: #{deploy[:deploy_to]}")
 end
 
 
