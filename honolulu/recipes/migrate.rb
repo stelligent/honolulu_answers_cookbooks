@@ -1,4 +1,4 @@
-chef_gem 'encrypt_signo'
+chef_gem 'encrypto_signo'
 
 execute "rake db:migrate" do
   cwd "/srv/www/honoluluanswers/current"
