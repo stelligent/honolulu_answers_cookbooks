@@ -5,7 +5,7 @@ This repo contains cookbooks for deploying the Honolulu Answers application. It'
 
 questions?
 ====
-If you have any issues, feel free to open an issue or make a pull request. Alternatively, you can reach out on twitter: @jonathansywulak
+If you have any issues, feel free to open an issue or make a pull request. Alternatively, you can reach out on twitter: [@jonathansywulak](https://twitter.com/jonathansywulak)
 
 :books: 
 
