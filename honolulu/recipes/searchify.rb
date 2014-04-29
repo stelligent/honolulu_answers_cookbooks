@@ -8,3 +8,9 @@ end
 execute "rake tanker:reindex" do
   cwd "/srv/www/honoluluanswers/current"
 end
+
+directory "/tmp/stelligent" do
+  action :create
+end
+
+
