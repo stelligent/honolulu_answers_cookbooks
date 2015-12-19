@@ -5,7 +5,7 @@ node[:deploy].each do |application, deploy|
 end
 
 
-execute "rake tanker:reindex" do
+execute "bundle exec rake tanker:reindex" do
   cwd "/srv/www/honoluluanswers/current"
 end
 
